@@ -1,5 +1,8 @@
-### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=heynemann)](https://github.com/heynemann)
 
+Want to learn how to contribute to Open Source in a safe environment? Join [thumbor-bootcamp](https://github.com/thumbor/thumbor-bootcamp)!
+
+Want to increase economic freedom around the world? Come join my team at [Coinbase](https://www.coinbase.com/careers).
 <!--
 **heynemann/heynemann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
